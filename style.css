@@ -72,19 +72,19 @@ nav ul li a:hover{
 }
 .col-1 h2{
     font-size: 54px;
-    color: #000;
+    color: #fff;
 }
 .col-1 h3{
     font-size: 30px;
-    color: #000;
+    color: #fff;
     font-weight: 100;
     margin: 20px 0 10px;
 }
 .col-1 p{
     font-size: 14px;
-    color: #000;
+    color: #fff;
     font-weight: 100;
-    opacity: 50%;
+    opacity: 70%;
 }
 button{
     margin-top: 30px;
